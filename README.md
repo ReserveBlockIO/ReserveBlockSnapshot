@@ -50,5 +50,5 @@ Please always ensure the checksum matches up with the files you are downloading.
 
 # License
 
-ReserveBlock-CLI is released under the terms of the MIT license. See [COPYING](COPYING) for more
+ReserveBlockSnapshot is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
