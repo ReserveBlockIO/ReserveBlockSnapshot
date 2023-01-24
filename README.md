@@ -1,14 +1,14 @@
-![license](https://img.shields.io/github/license/ReserveBlockIO/reserveblocksnapshot)
-![issues](https://img.shields.io/github/issues/ReserveBlockIO/reserveblocksnapshot)
+![license](https://img.shields.io/github/license/ReserveBlockIO/ReserveBlockSnapshot)
+![issues](https://img.shields.io/github/issues/ReserveBlockIO/ReserveBlockSnapshot)
 ![Discord](https://img.shields.io/discord/917499597692211260?label=discord)
 
 ##  Main Branch 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ReserveBlockIO/reserveblocksnapshot)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ReserveBlockIO/reserveblocksnapshot/main)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ReserveBlockIO/ReserveBlockSnapshot)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ReserveBlockIO/ReserveBlockSnapshot/main)
 
 Last Release
 
-![GitHub Release Date](https://img.shields.io/github/release-date/ReserveBlockIO/reserveblocksnapshot)
+![GitHub Release Date](https://img.shields.io/github/release-date/ReserveBlockIO/ReserveBlockSnapshot)
 
 # ReserveBlock Blockchain Snapshot
 For more information and to follow latest news go to:
